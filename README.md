@@ -9,4 +9,4 @@ Bu postu gören kişilerde belirlelen kriterlerde ise konu içerisinde yazılı 
 İletişim bilgisi olarak email, facebook, twitter, instagram, vb. sosyal medya profilleri belirlenebilir.
 
 ## Screenshots
-<img src="./screenshots/Screenshot_0.jpg" width="80" height="200">
+<img src="./screenshots/Screenshot_0.jpg" width="200" height="400">
