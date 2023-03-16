@@ -1,6 +1,6 @@
 # TeamFinder
 
-FireBase öğrenimim için geliştirmiş olduğum takım arkadaşı bulma uygulaması. (Uygulama hala geliştirme aşamasındadır.)
+FireBase öğrenimim için geliştirmiş olduğum takım arkadaşı bulma uygulaması.
 
 ## Kullanım şekli
 
